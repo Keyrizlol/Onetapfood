@@ -1,0 +1,640 @@
+{
+	"name": "Burger King",
+	"gericht": "Whopper Menu",
+	"preis": 7,99,
+	"zahlung": "bar"
+}
+
+{
+	"name": "Dominos",
+	"gericht": "New York Style Salami",
+	"preis": 9,99,
+	"zahlung": "bar"
+
+{
+	"name": "Dominos",
+	"gericht": "Chicken Döner Pizza",
+	"preis": 12,49,
+	"zahlung": "bar"
+
+{
+	"name": "Dominos",
+	"gericht": "Salami Supreme",
+	"preis": 14,49,
+	"zahlung": "bar"	
+	
+	{
+	"name": "Dominos",
+	"gericht": "Vegan Chicken Döner",
+	"preis": 15.99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Conchita",
+	"preis": 15,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Sucuk Hollandaise",
+	"preis": 14,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Pizza Cheeseburger",
+	"preis": 14,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Prosciutto Supreme",
+	"preis": 14,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Cheesecrust Supreme",
+	"preis": 14,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Veggie Supreme",
+	"preis": 14,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Vegayaki",
+	"preis": 15,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Tuna",
+	"preis": 13,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Boston",
+	"preis": 13,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Teriyaki Chicken",
+	"preis": 14,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Crazy Dog",
+	"preis": 13,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Chicken & Broccoli",
+	"preis": 13,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Lucca",
+	"preis": 13,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Dutchman",
+	"preis": 13,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Bombay",
+	"preis": 13,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Las Vega",
+	"preis": 14,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Salami",
+	"preis": 12,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Margherita",
+	"preis": 12,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Caprese",
+	"preis": 12,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Funghi",
+	"preis": 12,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Waikiki",
+	"preis": 13,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Prosciutto e Funghi",
+	"preis": 13,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Glutenarme Pizza Salami",
+	"preis": 15,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Glutenarme Pizza Margherita",
+	"preis": 14,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Glutenarme New York Style Salami",
+	"preis": 15,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Glutenarme Pizza Boston",
+	"preis": 16,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Glutenarme Pizza Caprese",
+	"preis": ,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Glutenarme Pizza Sucuk Hollandaise",
+	"preis": 17,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Glutenarme Pizza Funghi",
+	"preis": 15,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Glutenarme Pizza Tuna",
+	"preis": 16,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Pasta Chicken Döner",
+	"preis": 12,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Pasta Tomato",
+	"preis": 11,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Pasta Cheesyo",
+	"preis": 10,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Pasta Chickolo",
+	"preis": 11,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Pasta Bolo",
+	"preis": 11,49,
+	"zahlung": "bar"
+	
+{
+	"name": "Dominos",
+	"gericht": "Pasta Veggio",
+	"preis": 10,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Pasta Orlando",
+	"preis": 10,99,
+	"zahlung": "bar"
+
+	{
+	"name": "Dominos",
+	"gericht": "Popcorn Chicken",
+	"preis": 6,99,
+	"zahlung": "bar"
+
+	{
+	"name": "Dominos",
+	"gericht": "Sweet Chili Wings",
+	"preis": 7,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "BBQ-Wings",
+	"preis": 7,99,
+	"zahlung": "bar"
+
+	{
+	"name": "Dominos",
+	"gericht": "Chicken Kickers",
+	"preis": 6,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "XL Chicken Kickers",
+	"preis": 12,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Chicken Wings",
+	"preis": 6,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Chicken Strippers",
+	"preis": 6,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "XL Chicken Strippers",
+	"preis": 7,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Chicken Box",
+	"preis": 12,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "24 Pizzabrötchen",
+	"preis": 15,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Pizzabrötchen ohne Füllung",
+	"preis": 4,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Pizzabrötchen mit Hirtenkäse und Mozzarella",
+	"preis": 5,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Pizza NYS Salami, Jalapenos",
+	"preis": 5,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Pizzabrötchen Chicken Döner",
+	"preis": 5,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Pizzabrötchen Las Vega",
+	"preis": 5,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Pizzabrötchen Prosciutto Cotto und Käse",
+	"preis": 5,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Pizzabrötchen Käse",
+	"preis": 5,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Pizzabrötchen Sucuk und Mozzarella",
+	"preis": 5,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Pizzabrötchen Thunfisch und Käse",
+	"preis": 5,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Pizzabrötchen Salami und Käse",
+	"preis": 5,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Pizzabrötchen Knoblauch und Mozzarella",
+	"preis": 5,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Snack Box",
+	"preis": 15,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "XL Chili Cheese Bites",
+	"preis": 10,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Chili Cheese Bites",
+	"preis": 5,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Gouda Bites XL",
+	"preis": 10,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Gouda Cheese Bites",
+	"preis": 5,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Röstisticks XL ca. 240g",
+	"preis": 6,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Röstissticks ca. 120g",
+	"preis": 3,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Wrap Chicken Döner",
+	"preis": 8,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Wrap Veggie",
+	"preis": 6,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Wrap Heißer Schlitten",
+	"preis": 7,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Wrap Classic Chicken",
+	"preis": 7,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Wrap Italian Chicken",
+	"preis": 7,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Greek Style Salat",
+	"preis": 10,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Salat Deluxe",
+	"preis": 9,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Salat Green Garden",
+	"preis": 9,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Salat Caesar's Chicken",
+	"preis": 10,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Salat Gallo Verde",
+	"preis": 10,49,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Salat Mini",
+	"preis": 3,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Vier Ofenfrische Chocolate Chip Cookies",
+	"preis": 4,99,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "Zwei Ofenfrische Chocolate Chip Cookies",
+	"preis": 2,79,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "",
+	"preis": ,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "",
+	"preis": ,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "",
+	"preis": ,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "",
+	"preis": ,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "",
+	"preis": ,
+	"zahlung": "bar"
+	
+	{
+	"name": "Dominos",
+	"gericht": "",
+	"preis": ,
+	"zahlung": "bar"
+	"name": "       ",
+	"gericht": "        ",
+	"preis":     ,
+	"zahlung": "bar"
+	
+	{
+	"name": "       ",
+	"gericht": "        ",
+	"preis":     ,
+	"zahlung": "bar"
+	
+	{
+	"name": "       ",
+	"gericht": "        ",
+	"preis":     ,
+	"zahlung": "bar"
+	
+	{
+	"name": "       ",
+	"gericht": "        ",
+	"preis":     ,
+	"zahlung": "bar"
+	
+	{
+	"name": "       ",
+	"gericht": "        ",
+	"preis":     ,
+	"zahlung": "bar"
+	
+	{
+	"name": "       ",
+	"gericht": "        ",
+	"preis":     ,
+	"zahlung": "bar"
+	
+	{
+	"name": "       ",
+	"gericht": "        ",
+	"preis":     ,
+	"zahlung": "bar"
+	
+	{
+	"name": "       ",
+	"gericht": "        ",
+	"preis":     ,
+	"zahlung": "bar"
+	
+	{
+	"name": "       ",
+	"gericht": "        ",
+	"preis":     ,
+	"zahlung": "bar"
+	
+	{
+	"name": "       ",
+	"gericht": "        ",
+	"preis":     ,
+	"zahlung": "bar"
+	
+	{
+	"name": "       ",
+	"gericht": "        ",
+	"preis":     ,
+	"zahlung": "bar"
+	
+	{
+	"name": "       ",
+	"gericht": "        ",
+	"preis":     ,
+	"zahlung": "bar"
+	
+	{
+	"name": "       ",
+	"gericht": "        ",
+	"preis":     ,
+	"zahlung": "bar"
+	
+	{
+	"name": "       ",
+	"gericht": "        ",
+	"preis":     ,
+	"zahlung": "bar"
+	
+	{
+	"name": "       ",
+	"gericht": "        ",
+	"preis":     ,
+	"zahlung": "bar"
+	
+	{
+	"name": "       ",
+	"gericht": "        ",
+	"preis":     ,
+	"zahlung": "bar"
+	
+	{
+	"name": "       ",
+	"gericht": "        ",
+	"preis":     ,
+	"zahlung": "bar"
+	
+	{
+	"name": "       ",
+	"gericht": "        ",
+	"preis":     ,
+	"zahlung": "bar"
