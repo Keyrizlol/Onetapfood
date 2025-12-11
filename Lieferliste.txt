@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "Burger King",
-    "gericht": "Whopper Menu",
-    "preis": 7.99,
+    "name": "Dominos",
+    "gericht": "Zwei Ofenfrische Chocolate Chip Cookies",
+    "preis": 2.79,
     "zahlung": "bar"
   },
   {
@@ -575,9 +575,29 @@
   },
   {
     "id": 83,
-    "name": "Dominos",
-    "gericht": "Zwei Ofenfrische Chocolate Chip Cookies",
-    "preis": 2.79,
+    "name": "Burgerking",
+    "gericht": "",
+    "preis": ,
     "zahlung": "bar"
-  }
-]
+  },
+  {
+    "id": 84,
+    "name": "Burgerking",
+    "gericht": "",
+    "preis": ,
+    "zahlung": "bar"
+  },
+  {
+    "id": 85,
+    "name": "Burgerking",
+    "gericht": "",
+    "preis": ,
+    "zahlung": "bar"
+  },
+  {
+    "id": 86,
+    "name": "Burgerking",
+    "gericht": "",
+    "preis": ,
+    "zahlung": "bar"
+  },
