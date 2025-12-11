@@ -47,7 +47,7 @@ def send_order_to_service(order):
         return response
 
     else:
-        print("❌ Fehler:", response["message"])
+        print("Fehler:", response["message"])
         return response
 
 
@@ -82,3 +82,4 @@ def test_api_layer():
 # Nur ausführen, wenn die Datei direkt gestartet wird
 if __name__ == "__main__":
     test_api_layer()
+
