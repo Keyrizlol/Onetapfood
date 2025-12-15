@@ -576,28 +576,119 @@
   {
     "id": 83,
     "name": "Burgerking",
-    "gericht": "",
-    "preis": ,
+    "gericht": "King's Crunchy Chicken",
+    "preis": 11,29,
     "zahlung": "bar"
   },
   {
     "id": 84,
     "name": "Burgerking",
-    "gericht": "",
-    "preis": ,
+    "gericht": "King's Crunchy Chicken Menü",
+    "preis": 15,99,
     "zahlung": "bar"
   },
   {
     "id": 85,
     "name": "Burgerking",
-    "gericht": "",
-    "preis": ,
+    "gericht": "X-tra Long Chili Cheese",
+    "preis": 9,89,
     "zahlung": "bar"
   },
   {
     "id": 86,
     "name": "Burgerking",
-    "gericht": "",
-    "preis": ,
+    "gericht": "Whopper",
+    "preis": 8,49,
+    "zahlung": "bar"
+  },
+  {
+    "id": 87,
+    "name": "Burgerking",
+    "gericht": "X-tra Long Chili Cheese King Menü",
+    "preis": 14,59,
+    "zahlung": "bar"
+  },
+  {
+    "id": 88,
+    "name": "Burgerking",
+    "gericht": "Whopper King Menü",
+    "preis": 13,19,
+    "zahlung": "bar"
+  },
+  {
+    "id": 89,
+    "name": "Burgerking",
+    "gericht": "Double Whopper",
+    "preis": 11,29,
+    "zahlung": "bar"
+  },
+  {
+    "id": 90,
+    "name": "Burgerking",
+    "gericht": "Double Whopper King Menü",
+    "preis": 15,99,
+    "zahlung": "bar"
+  },
+  {
+    "id": 91,
+    "name": "Burgerking",
+    "gericht": "Big King XXL",
+    "preis": 11,49,
+    "zahlung": "bar"
+  },
+  {
+    "id": 92,
+    "name": "Burgerking",
+    "gericht": "Big King XXL King Menü",
+    "preis": 16,19,
+    "zahlung": "bar"
+  },
+  {
+    "id": ,
+    "name": "Burgerking",
+    "gericht": "X-tra Long Chili Cheese King Menü",
+    "preis": 14,59,
+    "zahlung": "bar"
+  },
+  {
+    "id": 86,
+    "name": "Burgerking",
+    "gericht": "X-tra Long Chili Cheese King Menü",
+    "preis": 14,59,
+    "zahlung": "bar"
+  },
+  {
+    "id": 86,
+    "name": "Burgerking",
+    "gericht": "X-tra Long Chili Cheese King Menü",
+    "preis": 14,59,
+    "zahlung": "bar"
+  },
+  {
+    "id": 86,
+    "name": "Burgerking",
+    "gericht": "X-tra Long Chili Cheese King Menü",
+    "preis": 14,59,
+    "zahlung": "bar"
+  },
+  {
+    "id": 86,
+    "name": "Burgerking",
+    "gericht": "X-tra Long Chili Cheese King Menü",
+    "preis": 14,59,
+    "zahlung": "bar"
+  },
+  {
+    "id": 86,
+    "name": "Burgerking",
+    "gericht": "X-tra Long Chili Cheese King Menü",
+    "preis": 14,59,
+    "zahlung": "bar"
+  },
+  {
+    "id": 86,
+    "name": "Burgerking",
+    "gericht": "X-tra Long Chili Cheese King Menü",
+    "preis": 14,59,
     "zahlung": "bar"
   },
