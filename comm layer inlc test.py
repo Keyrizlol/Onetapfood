@@ -1,4 +1,3 @@
-import random
 import time
 
 def fake_delivery_service(order):
@@ -55,6 +54,7 @@ def test_api_layer():
 
 if __name__ == "__main__":
     test_api_layer()
+
 
 
 
