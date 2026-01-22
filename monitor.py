@@ -9,14 +9,13 @@ status = {
 }
 
 def simulate_delivery_progress():
-    """Simuliert Fortschritt des Lieferstatus."""
     while True:
         if status["state"] == "on_the_way":
             if status["eta"] > 0:
                 status["eta"] -= 1
             else:
                 status["state"] = "delivered"
-        time.sleep(60)  # 1 Minute
+        time.sleep(60)
         
 
 def start_monitoring():
