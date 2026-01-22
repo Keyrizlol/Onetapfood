@@ -2,7 +2,7 @@ import random
 import time
 
 # -----------------------------------------------------
-# SIMULIERTER LIEFERDIENST (API-ERSATZ)
+
 # -----------------------------------------------------
 def fake_delivery_service(order):
     """
@@ -29,7 +29,7 @@ def fake_delivery_service(order):
 
 
 # -----------------------------------------------------
-# REQUEST DISPATCHER (Kommunikationsschicht)
+
 # -----------------------------------------------------
 def send_order_to_service(order):
     """
@@ -52,12 +52,11 @@ def send_order_to_service(order):
 
 
 # -----------------------------------------------------
-# TESTFUNKTION FÜR EUER PROJEKT
+
 # -----------------------------------------------------
 def test_api_layer():
     """
     Testet den API-Layer unabhängig von der echten Orderlogik.
-    Perfekt für Debugging & Präsentation.
     """
     print("\n=== TEST DER KOMMUNIKATIONS-SCHICHT ===")
 
@@ -82,4 +81,5 @@ def test_api_layer():
 # Nur ausführen, wenn die Datei direkt gestartet wird
 if __name__ == "__main__":
     test_api_layer()
+
 
