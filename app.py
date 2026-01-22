@@ -20,7 +20,7 @@ def create_order():
 
 @app.route("/order")
 def hunker_order():
-    """Auslösen einer Bestellung."""
+    
     order = create_order()
     response = send_order(order)
 
