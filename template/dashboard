@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Hunkerknopf Dashboard</title>
+    <link rel="stylesheet" href="/static/style.css"/>
+</head>
+<body>
+    <h1>🥡 Hunkerknopf – Dashboard</h1>
+
+    <div class="card">
+        <h2>Status</h2>
+        <p><strong>Aktueller Zustand:</strong> {{ status.state }}</p>
+        <p><strong>Lieferdienst:</strong> {{ status.service }}</p>
+        <p><strong>Restzeit:</strong> {{ status.eta }} min</p>
+    </div>
+
+    <a href="/order" class="button">🍔 Bestellung auslösen</a>
+</body>
+</html>
