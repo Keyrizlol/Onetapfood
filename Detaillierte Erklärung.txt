@@ -1,0 +1,143 @@
+app.py
+------
+Aufgabe:
+
+Startet den Webserver (Flask)
+
+Enthält die Orderlogik
+
+Verbindet alle anderen Module
+
+
+
+Macht konkret:
+
+Erstellt eine Bestellung (create_order())
+
+Übergibt sie an services.py
+
+Aktualisiert den Status in monitor.py
+
+Schreibt Logs
+
+Liefert Daten an das Dashboard
+
+
+
+Interagiert mit:
+
+services.send_order()
+
+monitor.status
+
+monitor.start_monitoring()
+
+orders.log
+
+dashboard.html
+--------
+
+services.py
+
+Aufgabe:
+
+Simuliert externe Lieferdienste
+
+Stellt die Übertragungsschicht dar
+
+
+
+Macht konkret:
+
+Nimmt Bestellungen vom Backend entgegen
+
+Simuliert API-Antworten (Erfolg/Fehler)
+
+Liefert Lieferzeit und Anbieter zurück
+
+
+
+Interagiert mit:
+
+app.py (Eingang der Bestellung)
+
+Gibt strukturierte Antwort zurück
+-----------
+
+monitor.py
+
+Aufgabe:
+
+Überwacht den Bestellstatus
+
+Simuliert den Lieferfortschritt
+
+
+
+Macht konkret:
+
+Speichert globalen Status (idle, on_the_way, delivered)
+
+Reduziert ETA im Hintergrund (Thread)
+
+Stellt Live-Status für das Dashboard bereit
+
+
+
+Interagiert mit:
+
+app.py (Status wird gesetzt)
+
+dashboard.html (Status wird angezeigt)
+-----------------
+
+dashboard.html
+
+Aufgabe:
+
+Visualisiert den Systemzustand
+
+
+
+Macht konkret:
+
+Zeigt Status, Lieferdienst, ETA
+
+Enthält den Button zum Auslösen der Bestellung
+
+
+
+Interagiert mit:
+
+app.py (Datenquelle)
+
+style.css (Design)
+-------------------
+
+orders.log
+
+Aufgabe:
+
+Dokumentiert alle Bestellungen
+
+Nachvollziehbarkeit für Tests & Bewertung
+
+
+
+Macht konkret:
+
+Speichert:
+
+Zeit
+
+Lieferdienst
+
+Status
+
+Fehler
+
+
+
+Interagiert mit:
+
+app.py (schreibt Logs)
