@@ -8,23 +8,6 @@ def fake_delivery_service(order):
     """
     print(" → Anfrage beim Lieferdienst wird verarbeitet...")
 
-    time.sleep(1)  # simulierte Serverzeit
-
-    # Simuliere Zufallsereignisse
-    if random.random() < 0.01:  # 1% Chance auf Fehler
-        return {
-            "status": "error",
-            "message": "Lieferdienst nicht erreichbar"
-        }
-
-    return {
-        "status": "ok",
-        "delivery_time": f"{random.randint(20, 50)} min",
-        "accepted_by": random.choice(["Pizza Pazzo", "Burger Hof", "Asia Star"]),
-        "order_details": order
-    }
-
-
 def send_order_to_service(order):
     """
     Nimmt die fertige Bestellung von der Orderlogik entgegen
@@ -72,6 +55,7 @@ def test_api_layer():
 
 if __name__ == "__main__":
     test_api_layer()
+
 
 
 
