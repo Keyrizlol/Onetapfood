@@ -1,0 +1,11 @@
+Button / Aufruf
+   ↓
+app.py (Orderlogik)
+   ↓
+services.py (API-Simulation)
+   ↓
+monitor.py (Status + ETA)
+   ↓
+orders.log (Logging)
+   ↓
+dashboard.html (Anzeige)
