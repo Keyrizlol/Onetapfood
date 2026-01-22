@@ -35,9 +35,9 @@ def send_order_to_service(order):
     response = fake_delivery_service(order)
 
     if response["status"] == "ok":
-        print("✔ Bestellung erfolgreich übermittelt!")
-        print("   Lieferdienst:", response["accepted_by"])
-        print("   Lieferzeit:", response["delivery_time"])
+        print("Bestellung erfolgreich übermittelt!")
+        print("Lieferdienst:", response["accepted_by"])
+        print("Lieferzeit:", response["delivery_time"])
         return response
 
     else:
@@ -72,6 +72,7 @@ def test_api_layer():
 
 if __name__ == "__main__":
     test_api_layer()
+
 
 
 
