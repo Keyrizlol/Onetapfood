@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="/static/style.css"/>
 </head>
 <body>
-    <h1>🥡 Hunkerknopf – Dashboard</h1>
+    <h1>Hunkerknopf – Dashboard</h1>
 
     <div class="card">
         <h2>Status</h2>
@@ -15,6 +15,6 @@
         <p><strong>Restzeit:</strong> {{ status.eta }} min</p>
     </div>
 
-    <a href="/order" class="button">🍔 Bestellung auslösen</a>
+    <a href="/order" class="button">Bestellung auslösen</a>
 </body>
 </html>
