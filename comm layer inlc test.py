@@ -1,9 +1,6 @@
 import random
 import time
 
-# -----------------------------------------------------
-
-# -----------------------------------------------------
 def fake_delivery_service(order):
     """
     Simuliert die Antwort eines Lieferdienstes.
@@ -14,7 +11,7 @@ def fake_delivery_service(order):
     time.sleep(1)  # simulierte Serverzeit
 
     # Simuliere Zufallsereignisse
-    if random.random() < 0.1:  # 10% Chance auf Fehler
+    if random.random() < 0.01:  # 1% Chance auf Fehler
         return {
             "status": "error",
             "message": "Lieferdienst nicht erreichbar"
@@ -28,9 +25,6 @@ def fake_delivery_service(order):
     }
 
 
-# -----------------------------------------------------
-
-# -----------------------------------------------------
 def send_order_to_service(order):
     """
     Nimmt die fertige Bestellung von der Orderlogik entgegen
@@ -51,9 +45,7 @@ def send_order_to_service(order):
         return response
 
 
-# -----------------------------------------------------
 
-# -----------------------------------------------------
 def test_api_layer():
     """
     Testet den API-Layer unabhängig von der echten Orderlogik.
@@ -78,8 +70,8 @@ def test_api_layer():
     print("=== TEST BEENDET ===\n")
 
 
-# Nur ausführen, wenn die Datei direkt gestartet wird
 if __name__ == "__main__":
     test_api_layer()
+
 
 
