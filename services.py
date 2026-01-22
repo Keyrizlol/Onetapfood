@@ -1,4 +1,3 @@
-import random
 import time
 import json
 
@@ -6,19 +5,8 @@ def fake_delivery_service(order):
     """Simuliert einen Lieferdienst."""
     time.sleep(1)
 
-    if random.random() < 0.12:
-        return {"status": "error", "message": "Lieferdienst offline"}
-
-    return {
-        "status": "ok",
-        "service": random.choice(["McDonalds", "BurgerKing", "Dominos"]),
-        "eta": random.randint(20, 50),
-        "order": order
-    }
-
-
 def send_order(order):
-    """API-Layer → sendet Bestellung an Lieferdienst."""
+    """API-Layer -> sendet Bestellung an Lieferdienst."""
     response = fake_delivery_service(order)
     return response
 
