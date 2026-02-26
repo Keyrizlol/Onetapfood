@@ -6,7 +6,7 @@ from monitor import status, start_monitoring
 app = Flask(__name__)
 
 
-# ORDERLOGIK
+#Orderlogik
 
 def create_order():
     order = {
@@ -38,7 +38,7 @@ def hunger_order():
 
 
 
-# LOGGING
+#Logs
 
 def write_log(entry):
     with open("logs/orders.log", "a") as f:
@@ -46,7 +46,7 @@ def write_log(entry):
 
 
 
-# DASHBOARD
+#Dashboard
 
 @app.route("/")
 def dashboard():
